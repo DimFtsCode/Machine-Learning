@@ -1,6 +1,6 @@
 
 
-Projwxt 1: Music Genre Classification Using Neural Networks
+Project 1: Music Genre Classification Using Neural Networks
 This assignment involves building and training neural networks to classify music genres based on audio signal features. Students work with two types of representations: MFCCs (Mel-Frequency Cepstral Coefficients) and mel-spectrograms. The assignment consists of designing and implementing feedforward and convolutional neural networks (CNNs) using PyTorch or TensorFlow. Students must optimize their models using techniques like batch normalization, dropout, and hyperparameter tuning. The project also includes real-world testing by making predictions on new music samples from YouTube, demonstrating the model's generalization capabilities.
 
 Project 2: Derivatives and Optimization in Machine Learning
